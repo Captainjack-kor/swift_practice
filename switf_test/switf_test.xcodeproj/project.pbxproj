@@ -17,6 +17,8 @@
 		045B04992784874F00506F6D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045B046F2784874B00506F6D /* ContentView.swift */; };
 		045B049A2784874F00506F6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 045B04702784874F00506F6D /* Assets.xcassets */; };
 		045B049B2784874F00506F6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 045B04702784874F00506F6D /* Assets.xcassets */; };
+		045B04AB2784891900506F6D /* uikit_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045B04AA2784891900506F6D /* uikit_test.swift */; };
+		045B04AC2784891900506F6D /* uikit_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045B04AA2784891900506F6D /* uikit_test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		045B048E2784874F00506F6D /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		045B04922784874F00506F6D /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		045B04942784874F00506F6D /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		045B04AA2784891900506F6D /* uikit_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uikit_test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +103,7 @@
 				045B046E2784874B00506F6D /* switf_testApp.swift */,
 				045B046F2784874B00506F6D /* ContentView.swift */,
 				045B04702784874F00506F6D /* Assets.xcassets */,
+				045B04AA2784891900506F6D /* uikit_test.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -300,6 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				045B04982784874F00506F6D /* ContentView.swift in Sources */,
+				045B04AB2784891900506F6D /* uikit_test.swift in Sources */,
 				045B04962784874F00506F6D /* switf_testApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,6 +314,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				045B04992784874F00506F6D /* ContentView.swift in Sources */,
+				045B04AC2784891900506F6D /* uikit_test.swift in Sources */,
 				045B04972784874F00506F6D /* switf_testApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
