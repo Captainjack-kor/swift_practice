@@ -65,3 +65,7 @@ let myTuple = (10, 432.433, "This is a String");
 
 let myString = myTuple.1
 print(myString);
+
+
+
+// 진짜 swift랑 xcode는 미친 것 같다;;; 개빡친다 ^^
